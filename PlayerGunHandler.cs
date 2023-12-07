@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-// scripts of a "Handler class" as i like to call it, are responsible of handling one object very well, if not entirely. They are ussually the longest scripts i write. This script is one of them.
+
 public class GunPlayerHandler : MonoBehaviour
 {
 	//define in-engine values and object
