@@ -7,7 +7,7 @@ public class BasicAnimPlayer : MonoBehaviour
 
    //public Animation anim;
    [SerializeField]
-   private GameObject ManualTrigger; // The object we want to play the animatio on
+   private GameObject ManualTrigger; // The object we want to play the animation on
    [SerializeField]
    private string AnimName; // The layer and the asnimation name we want to play. Example: Base Layer.Door_open_anim
    [SerializeField]
