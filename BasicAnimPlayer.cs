@@ -58,7 +58,7 @@ public class BasicAnimPlayer : MonoBehaviour
 
    private void Animate() //responsible for animating
     {
-      if (anim != null) // makes sure that the actual animator conponent exists on the object
+      if (anim != null) // makes sure that the actual animator component exists on the object
          {
                //Play the animation on a specific layer and at what frame it starts)
                anim.Play(AnimName, 0, StartingFrame);
