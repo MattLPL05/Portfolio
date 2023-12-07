@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-// scripts of a "basic class" as i like to call it, are responsible to make life easier, by being scripts that can be used universaly for many situations. This script is one of them.
+
 public class BasicAnimPlayer : MonoBehaviour
 {
 
